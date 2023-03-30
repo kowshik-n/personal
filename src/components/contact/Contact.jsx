@@ -57,7 +57,7 @@ contact__button-icon"
           <h3 className="contact__title">Write me your project</h3>
           <form className="contact__form">
             <div className="contact__form-div">
-              <label className="contact__form-tag">Name</label>
+              {/* <label className="contact__form-tag">Name</label> */}
               <input
                 type="name"
                 name="name"
@@ -67,7 +67,7 @@ contact__button-icon"
             </div>
 
             <div className="contact__form-div">
-              <label className="contact__form-tag">Mail</label>
+              {/* <label className="contact__form-tag">Mail</label> */}
               <input
                 type="email"
                 name="email"
@@ -76,7 +76,7 @@ contact__button-icon"
               />
             </div>
             <div className="contact__form-div contact__form-area">
-              <label className="contact__form-tag">project</label>
+              {/* <label className="contact__form-tag">project</label> */}
               <textarea
                 name="project"
                 cols="30"
