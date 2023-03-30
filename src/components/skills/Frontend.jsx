@@ -3,7 +3,7 @@ import React from "react";
 const Frontend = () => {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Front end developer</h3>
+      {/* <h3 className="skills__title">Front end developer</h3> */}
 
       <div className="skills__box">
         <div className="skills_data">
