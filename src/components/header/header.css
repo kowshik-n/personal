@@ -4,7 +4,6 @@
     top : 0 ;
     left : 0 ;
     z-index : var( --z-fixed ) ;
-    background: #2BC0E4;background: -webkit-linear-gradient(to right, #EAECC6, #2BC0E4);background: linear-gradient(to right, #EAECC6, #2BC0E4);
     color: black;
 }
 

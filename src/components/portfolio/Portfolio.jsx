@@ -8,19 +8,19 @@ import IMG5 from "../assets/5.png";
 import IMG6 from "../assets/6.png";
 
 const data = [
-  {
-    id: 1,
-    image: IMG1,
-    title: "crypto currency tracker",
-    github: "https://github.com/kowshik-n/-kowshik-n-Crypto-currency-tracker",
-    demo: "https://kowshik-crypto.netlify.app/",
-  },
+  // {
+  //   id: 1,
+  //   image: IMG1,
+  //   title: "crypto currency tracker",
+  //   github: "https://github.com/kowshik-n/-kowshik-n-Crypto-currency-tracker",
+  //   demo: "https://kowshik-crypto.netlify.app/",
+  // },
   {
     id: 2,
     image: IMG2,
     title: "e-commerce website",
     github: "https://github.com/kowshik-n/E-commerce",
-    demo: "https://kowshik-ecommerce.netlify.app/",
+    demo: "https://shopclues-kowshik-n.netlify.app",
   },
   {
     id: 3,
@@ -29,13 +29,13 @@ const data = [
     github: "https://github.com/kowshik-n/weather-api",
     demo: "https://kowshik-weather.netlify.app/",
   },
-  {
-    id: 4,
-    image: IMG4,
-    title: "instagram clone",
-    github: "https://github.com/kowshik-n/insta-clone",
-    demo: "https://kowshik-insta-clone.netlify.app/",
-  },
+  // {
+  //   id: 4,
+  //   image: IMG4,
+  //   title: "instagram clone",
+  //   github: "https://github.com/kowshik-n/insta-clone",
+  //   demo: "https://kowshik-insta-clone.netlify.app/",
+  // },
   {
     id: 5,
     image: IMG5,
