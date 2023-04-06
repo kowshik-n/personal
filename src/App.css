@@ -228,7 +228,7 @@ img {
 body {
 	background: linear-gradient(-45deg, #EAECC6, #2BC0E4);
 	background-size: 400% 400%;
-	animation: gradient 10s ease infinite;
+	animation: gradient 4s ease infinite;
 }
 
 @keyframes gradient {
