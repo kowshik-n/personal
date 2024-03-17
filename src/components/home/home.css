@@ -64,7 +64,7 @@ I .home_hand {
 .home__img {
   background: url(../assets//profile.png);
   background-repeat: no-repeat;
-  background-position: center;
+  /* background-position: center; */
   background-size: cover;
   /* box-shadow : inset 0 0 0 1px ; */
   box-shadow: inset 0 0 0 9px rgb(255 255 255 / 10%);
